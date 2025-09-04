@@ -1,7 +1,8 @@
 flask
-flask-cors
-gunicorn
+flask==3.0.3
+gunicorn==23.0.0
 youtube-transcript-api==0.6.2
+
 
 
 
